@@ -1,6 +1,4 @@
 # CRM-SALES
-B2B sales pipeline data from a fictitious company that sells computer hardware, including information on accounts, products, sales teams, and sales opportunities.
-
 Recommended Analysis
 How is each sales team performing compared to the rest?
 1. Are any sales agents lagging behind?
